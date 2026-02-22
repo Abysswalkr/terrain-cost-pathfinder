@@ -1,1 +1,9 @@
 .DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# Model weights
+*.npz
+*.npy
